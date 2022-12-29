@@ -1,5 +1,5 @@
 # 💫 About Me:
-This profile was created to show my new projects, you can see all projects I <br>have worked on here: "https://github.com/Leonel-Padilla"<br><br>I'm a Front-End developer, I really enjoy learning new technologies, I like to collaborate with people from all over the world and learn from developers more experienced than me.
+This profile was created to show my new projects, you can see all projects I <br>have worked on before here: "https://github.com/Leonel-Padilla"<br><br>I'm a Front-End developer, I really enjoy learning new technologies, I like to collaborate with people from all over the world and learn from developers more experienced than me.
 
 
 ## 🌐 Socials:
